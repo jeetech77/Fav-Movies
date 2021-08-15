@@ -1,14 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
 * {
   margin: 0;
-  transition: all .3s linear;
-
+  transition: all 0.3s linear;
 }
 body {
   background-color: #e5e7eb;
 }
 .App {
-  font-family: 'Merriweather', sans-serif;
+  font-family: "Merriweather", sans-serif;
   margin: 2rem 3rem;
   font-family: sans-serif;
   text-align: left;
@@ -22,15 +21,14 @@ body {
 }
 .button-sec {
   font-weight: 600;
-  outline:none;
+  outline: none;
   padding: 0.5rem 0.8rem;
   margin-left: 0.5rem;
   border: 1px solid black;
   border-radius: 7px;
 }
-.button-sec:hover{
+.button-sec:hover {
   background-color: #6b7280;
-
 }
 hr {
   margin: 1rem 0;
@@ -43,11 +41,14 @@ hr {
   border-radius: 10px;
   padding: 1rem;
 }
-.book-name {
+.movie-name {
   font-size: large;
   margin: 5px;
 }
-.book-rating {
+.movie-rating {
   margin: 5px;
   font-size: small;
+}
+.movie-details {
+  margin: 1rem 5px;
 }
