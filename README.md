@@ -1,7 +1,7 @@
 # Fav-Movies
 Here I am creating an app using React JS and listing my favorite movies.
 
-[Check live here](https://jq3x2.csb.app/)
+[Check live here](https://r1sqg.csb.app/)
 
 ## How To Use ?
 - By default it will show action movies list.
